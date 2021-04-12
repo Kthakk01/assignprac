@@ -20,6 +20,10 @@ how are yoou
 
 
 how are you now
+<<<<<<< HEAD
 
 i am never fine
 newbranch
+=======
+i am fine
+>>>>>>> branchtwo
