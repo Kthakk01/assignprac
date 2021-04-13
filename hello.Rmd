@@ -24,6 +24,10 @@ how are you now
 
 i am never fine
 newbranch
+<<<<<<< HEAD
 
 i am fine
 main branch
+=======
+life is beaumergertiful
+>>>>>>> branch3
